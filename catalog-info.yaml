@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-awesome-test
+  annotations:
+    github.com/project-slug: piixelize/my-awesome-test
+spec:
+  type: other
+  lifecycle: unknown
